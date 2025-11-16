@@ -4,7 +4,8 @@
 This project demonstrates practical Linux file permissions management for a research organization's projects directory. The goal was to update file and directory permissions to reflect proper authorization levels and enhance system security.
 
 ## Project Files
-- **[Linux File Permissions Management project.pdf](<sandbox:/mnt/data/Linux File Permissions Management projecct.pdf>)** – Complete project documentation with detailed explanations and screenshots.
+[Linux File Permissions Management projecct.pdf](https://github.com/user-attachments/files/23564830/Linux.File.Permissions.Management.projecct.pdf)
+– Complete project documentation with detailed explanations and screenshots.
 
 
 ## Tasks Performed
